@@ -44,6 +44,17 @@ body {
     text-decoration: none;
 }
 
+#hashtag {
+    position: relative;
+    padding-bottom: 20px;
+    color: var(--accentColor);
+    font-size: 1rem;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+}
+
 #links {
     max-width: 675px;
     width: auto;
@@ -54,7 +65,7 @@ body {
 .link {
     position: relative;
     background-color: transparent;
-    color: #FFFFFF;                # Cores dos botões
+    color: #FFFFFF;           
     border: solid #FFFFFF 2px;
     border-radius: 10px;
     font-size: 1rem;
@@ -79,17 +90,6 @@ body {
 .link:active {
     background-color: var(--accentColor);
     color: #FFFFFF;
-}
-
-#hashtag {
-    position: relative;
-    padding-bottom: 20px;
-    color: var(--accentColor);
-    font-size: 1rem;
-    display: block;
-    font-family: var(--font);
-    width: 100%;
-    text-align: center;
 }
 
 
