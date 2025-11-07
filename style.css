@@ -52,6 +52,19 @@ body {
     display: block;
     font-family: var(--font);
     width: 100%;
+    margin: 10px;
+    text-align: center;
+}
+
+
+#hashtag {
+    position: relative;
+    padding-bottom: 20px;
+    color: var(--accentColor);
+    font-size: 0.75rem;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
     text-align: center;
 }
 
