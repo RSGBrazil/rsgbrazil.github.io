@@ -83,7 +83,7 @@ body {
 @media (hover: hover) {
     .link:hover {
         background-color: var(--accentColor);
-        color: #FFFFFF;
+        color: #004852;
     }
 }
 
