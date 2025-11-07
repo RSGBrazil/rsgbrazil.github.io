@@ -14,7 +14,6 @@ body {
     min-height: 100vh;
     font-family: var(--font);
     background: linear-gradient(#004852,#327a84); # Gradiente do fundo
-    /* background-image: url('https://bit.ly/3nFVqJh'); */
     opacity: 0;
     animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
     animation-fill-mode: forwards;
@@ -48,7 +47,7 @@ body {
     position: relative;
     padding-bottom: 20px;
     color: var(--accentColor);
-    font-size: 1rem;
+    font-size: 0.2rem;
     display: block;
     font-family: var(--font);
     width: 100%;
@@ -65,8 +64,8 @@ body {
 .link {
     position: relative;
     background-color: transparent;
-    color: #FFFFFF;           
-    border: solid #FFFFFF 2px;
+    color: #ffffff;           
+    border: solid #ffffff 2px;
     border-radius: 10px;
     font-size: 1rem;
     text-align: center;
