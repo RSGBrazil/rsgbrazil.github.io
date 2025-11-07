@@ -95,13 +95,13 @@ body {
 @media (hover: hover) {
     .link:hover {
         background-color: var(--accentColor);
-        color: #FFFFFF;
+        color: #163e6e;
     }
 }
 
 .link:active {
     background-color: var(--accentColor);
-    color: #FFFFFF;
+    color: #163e6e;
 }
 
 
