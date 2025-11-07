@@ -13,7 +13,7 @@ body {
     padding: 0;
     min-height: 100vh;
     font-family: var(--font);
-    background: linear-gradient(#282d4b,#146d92); # Gradiente do fundo
+    background: linear-gradient(#144466,#146d92); # Gradiente do fundo
     opacity: 0;
     animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
     animation-fill-mode: forwards;
