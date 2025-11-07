@@ -46,9 +46,8 @@ body {
 
 #hashtag {
     position: relative;
-    padding-bottom: 20px;
     color: var(--accentColor);
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     display: block;
     font-family: var(--font);
     width: 100%;
@@ -57,11 +56,11 @@ body {
 }
 
 
-#hashtag {
+#hashtag2 {
     position: relative;
     padding-bottom: 20px;
     color: var(--accentColor);
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     display: block;
     font-family: var(--font);
     width: 100%;
